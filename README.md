@@ -1,4 +1,4 @@
-# Ochi Website -Clone
+# Ochi Website-Clone
 A clone of Ochi's official website, designed to replicate the original layout and functionality. This project demonstrates proficiency in web development technologies and skills, including [list any specific technologies or frameworks used, e.g., HTML, CSS, JavaScript, React].
 
 Key features include:
