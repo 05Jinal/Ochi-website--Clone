@@ -1,1 +1,1 @@
-# Ochi-website-Clone
+# Ochi Website-Clone
